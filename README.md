@@ -9,3 +9,6 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 - Network analysis of Actors / Directors and find interesting insights
 - Does Netflix has more focus on TV Shows than movies in recent years
 
+# Dataset link :
+- Netflix dataset : https://www.kaggle.com/datasets/shivamb/netflix-shows
+- Disney Plus : https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
